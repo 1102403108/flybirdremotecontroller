@@ -2,6 +2,11 @@
 pc电脑端支持win7+系统
 
 iOS端支持iOS8-iOS10越狱系统
+
+# 授权和合作
+本软件pc端、iOS端代码全部为个人自主研发，无法在购买授权码。可以提供更多定制功能和任意形式的合作。合作及授权码联系email:lovetony2019@hotmail.com
+
+
 # PC端截图
 <img src="https://github.com/bandy101/flybirdremotecontroller/blob/master/%E6%88%AA%E5%9B%BE/1.png" width="500px" />
 
